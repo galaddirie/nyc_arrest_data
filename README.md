@@ -1,4 +1,4 @@
-# nyc arrest data
+# NYC ARREST DATA
 
 ## Download NYC Historic Arrest Data
 
