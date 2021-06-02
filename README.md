@@ -6,6 +6,9 @@ The arrest data is to large to upload. [Downlaod here](https://drive.google.com/
 
 ## Introduction
 
+
+The experience people have with Police enforcement vary wildly, but ethnicity and race is far to often a factor in that experience. There is a large disparity and inequality in policing presence, incarceration rates, police brutality, etc. in the United States. This essay will look specifically at arrests in the state of New York from 2006-2019 and will identify biases and why minorities are disproportionately arrested more per capita, specifically black people. In New York, the population estimation from the U.S. Census Bureau (2019) are 69.6%-Whites, 17.6%-Black, 19.3%-Hispanic, 9.0%-Asian. The NYPD&#39;s Historic arrest Data black people comprise 48% of all arrests, while white individuals make up 12%.
+
 ![](https://github.com/galaddirie/nyc_arrest_data/blob/main/img/post_race_graph.png)
 
 | **Ethnicity** | **Percentage** | **Total Arrests** |
@@ -19,7 +22,7 @@ The arrest data is to large to upload. [Downlaod here](https://drive.google.com/
 | AMERICAN INDIAN/ALASKAN NATIVE | 0.002204 | 11050 |
 | OTHER | 0.000272 | 1363 |
 
-The experience people have with Police enforcement vary wildly, but ethnicity and race is far to often a factor in that experience. There is a large disparity and inequality in policing presence, incarceration rates, police brutality, etc. in the United States. This essay will look specifically at arrests in the state of New York from 2006-2019 and will identify biases and why minorities are disproportionately arrested more per capita, specifically black people. In New York, the population estimation from the U.S. Census Bureau (2019) are 69.6%-Whites, 17.6%-Black, 19.3%-Hispanic, 9.0%-Asian. The NYPD&#39;s Historic arrest Data black people comprise 48% of all arrests, while white individuals make up 12%.
+
 
 Despite being 17.6% of the population, black people were arrested four times more often, adjusting for population, in this period black people had arrest per capita (BLACK: 0.71, WHITE: 0.044) 16 times larger than white people.
 
