@@ -40,7 +40,7 @@ Stolper(2018) describes racial disparities in fare evasion arrests, more than 94
 
 Since 2013 this disproportionate gap has decreased significantly; there were 55% fewer arrests for people of colour in 2019 vs. 2006. It is clear that racial stereotyping and bias has had a considerable influence in policing in New York; before the stricter criteria for stop and frisks were put in place, 88% of all stops were innocent when the stricter criteria were put into place, stop and frisk innocence only dropped 12% while people of colour saw a sharp decline in arrests, black people were arrested 46% less, but with 90% of stops still being people of colour the bias still persists in NYPD.
 
-## Prepetuation and Intergenerational incarceration -HERE
+## Prepetuation and Intergenerational incarceration
 
 The high arrest rate among people of colour isn’t solely due to discrimination and racial profiling. A part of the issue is perpetuating behaviours in communities of colour. Swisher (2012) finds that a biological father’s incarceration during childhood is associated with increased delinquency for all youth, with very little difference between race groups. The high levels of youth delinquency encourage police presence and enforcement, perpetuating racial stereotypes; this, in turn, leads to fathers’ incarceration, in a self-fulfilling cycle its decimating communities of colour. The intergenerational effect of incarceration is a significant risk factor, Roettger(2011) found parental incarceration was a powerful influence creating many adverse outcomes such as antisocial behaviour and offending, to decreasing psychological well-being and even socioeconomic attainments in adulthood.
 
