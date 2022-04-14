@@ -4,12 +4,16 @@ import matplotlib.pyplot as plt
 import csv
 import datetime as dt
 import seaborn as sns
+from typing import List
 cols = [1,12,13,16,17]
 
 
 
 
-def data_processing():
+def data_processing() -> List:
+    """
+    Processes and converts NYPD Arrest Data into an array
+    """
     with open('NYPD_Arrests_Data__Historic_.csv', 'r') as csv_file:
         csv_reader = csv.reader(csv_file)
         with open('arrest_data_modifyed.csv', 'w', newline='') as new_file:
@@ -33,7 +37,10 @@ def data_processing():
 
 ARREST_DATA = data_processing()
 
-def total_arrest_per_race():
+def total_arrest_per_race() -> None:
+    """
+    Plots and Graphs arrests by ethnicity
+    """
     race_arrest = ARREST_DATA['PERP_RACE'].value_counts()
     
     graph = race_arrest.plot.pie(title="% of Arrests Organized by Ethnicity", textprops={'fontsize': 0})
@@ -44,7 +51,10 @@ def total_arrest_per_race():
 
 
 
-def arrest_over_time():
+def arrest_over_time() -> None:
+    """
+    Plots and Graphs arrests over time for every ethnicity
+    """
     fig, ax = plt.subplots(figsize=(10,7.5))
     graph = ARREST_DATA.groupby(['ARREST_DATE', 'PERP_RACE']).size().unstack().plot(ax=ax, title='# Arrests per Year')
     print(ARREST_DATA.groupby(['ARREST_DATE', 'PERP_RACE']).size().head(500))
@@ -53,7 +63,10 @@ def arrest_over_time():
     graph.legend(title="Ethnicity", fontsize=7)
     plt.savefig('Figure_2.png')
 
-def heat_map():
+def heat_map() -> None:
+    """
+    Plots and Graphs arrests by Longitude and Latitude
+    """
     x = ARREST_DATA['Longitude'].dropna()
     y = ARREST_DATA['Latitude'].dropna()
     extent = [[-74.257159, -73.699215], [40.495992, 40.915568]] # new york city bounding box
