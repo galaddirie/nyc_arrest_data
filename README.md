@@ -51,11 +51,9 @@ Intergenerational incarceration is just one of many factors in the disproportion
 Martin et al.(2011) identified the issues black Americans face that explains the disproportionate presence in crime rates; they suggest that Improving the structural conditions would reduce Black Americans' overrepresentation in crime statistics.
 ## Conclusion
 
-New York's arrests data has a clear disproportionate overrepresentation of people of colour; although making up 17% of the population, black people were responsible for 45% of the arrests made. The disproportionate arrests made by police in New York can be explained through the socio-economic situation that faces people of colour, but a significant factor, in this case, was discriminatory policy, stop and frisk. The policy allows officers to act upon racial stereotypes actively and subconsciously. Before regulation, stop and frisk had an 88% innocence rate; after regulation it dropped to 76%, but black arrests dropped by 46%, even with 90% of stops being people of colour, Identifying a clear racial bias towards people of colour in New York,
+New York's arrests data has a clear disproportionate overrepresentation of people of colour; although making up 17% of the population, black people were disproportionate targeted, making up 45% of arrests made. The disproportionate arrests made by police in New York can be explained through the socio-economic situation that faces people of colour, but a significant factor, in this case, was discriminatory policy, stop and frisk. The policy allows officers to act upon racial stereotypes actively and subconsciously. Before regulation, stop and frisk had an 88% innocence rate; after regulation it dropped to 76%, but black arrests dropped by 46%, even with 90% of stops being people of colour, Identifying a clear racial bias towards people of colour in New York,
 
-## Appendix
 
-2020 has been a divisive year; with racial tensions at an all-time high; everyone should step back and look at the facts and problems. The problems facing people of colour are complex. Although racism, police, and policy play a vital role in the issues facing people of colour, they aren't all to blame and are only a piece in the complex socio-economic problem. We must understand that Bias exists, and it's important to identify so we can understand the situation. This data is essential because it identifies policing behaviours such as a policy that negatively affects people of colour.
 
 ## Refrences
 
